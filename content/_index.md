@@ -13,7 +13,7 @@ date: 2024-09-22
 ## Publications
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 30px;">
     <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
-        <img src="./paper/dragtext2025/thumb.png" alt="Thumbnail" style="width: 80px; height: auto; object-fit: cover;"/>
+        <img src="./papers/dragtext2025/thumb.png" alt="Thumbnail" style="width: 80px; height: auto; object-fit: cover;"/>
         <div style="line-height: 1.2; width: calc(100% - 95px);" align="left">
             <p style="margin: 2px 0; font-weight: bold; white-space: nowrap;">
                 DragText: Rethinking Text Embedding in Point-based Image Editing
@@ -41,7 +41,7 @@ date: 2024-09-22
         </div>
     </div>
     <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
-        <img src="./paper/petite2024/thumb.png" alt="Thumbnail" style="width: 80px; height: auto; object-fit: cover;"/>
+        <img src="./papers/petite2024/thumb.png" alt="Thumbnail" style="width: 80px; height: auto; object-fit: cover;"/>
         <div style="line-height: 1.2; width: calc(100% - 95px);" align="left">
             <p style="margin: 2px 0; font-weight: bold; white-space: nowrap;">
                 Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction

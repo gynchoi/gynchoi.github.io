@@ -1,10 +1,9 @@
 ---
 title: "DragText: Rethinking Text Embedding in Point-based Image Editing"
 date: 2024-09-23
-draft: false
 description: "WACV 2025 Round 1 Early Acceptance Paper"
 summary: "We propose DragText, which optimizes text embedding in conjunction with the dragging process to pair with the modified image embedding."
-tags: ["wacv", "papers"]
+tags: ["wacv", "conference-paper"]
 ---
 
 {{< lead >}}
