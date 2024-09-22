@@ -1,7 +1,6 @@
 ---
 title: "Blog Posts"
 description: ""
-
 cascade:
   showDate: true
   showAuthor: false

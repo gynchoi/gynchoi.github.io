@@ -1,10 +1,8 @@
 ---
 title: "Publication"
-description: "Publication Lists"
-
 cascade:
   showDate: true
-  showAuthor: false
-  showSummary: true
+  showAuthor: true
+  showSummary: false
   invertPagination: true
 ---

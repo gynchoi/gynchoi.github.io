@@ -1,19 +1,22 @@
 ---
 title: "Welcome to my Blog :dog:"
-date: 2024-09-22
 ---
+
+{{< lead >}}
+Hi! I'm Gayoon Choi and currently pursuing my M.S. degree at Yonsei University, advised by Prof. [Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae). My research interests include Image Editing, Parameter-Efficient Fine Tuning, and Test-Time Adaptation.
+{{< /lead >}}
 
 ## News :tada:
 <ul style="line-height: 1.2;" align="left">
-    <li>[Aug 2024] One Paper <strong>EARLY ACCEPTED</strong> for WACV 2025</li>
-    <li>[May 2024] One Paper Accepted for MICCAI 2024</li>
-    <li>[Sep 2023] Join MICV Lab in Yonsei Univeristy for M.S. Course</li>
+    <li>[Aug 2024] One Paper <strong>EARLY ACCEPTED</strong> for <a href="https://wacv2025.thecvf.com/" target="_blank">WACV 2025</a></li>
+    <li>[May 2024] One Paper Accepted for <a href="https://conferences.miccai.org/2024/en/" target="_blank">MICCAI 2024</a></li>
+    <li>[Sep 2023] Join <a href="https://micv.yonsei.ac.kr/" target="_blank">MICV Lab</a> in <a href="https://www.yonsei.ac.kr"  target="_blank">Yonsei Univeristy</a> for M.S. Degree</li>
 </ul>
 
 ## Publications
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 30px;">
     <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
-        <img src="./papers/dragtext2025/thumb.png" alt="Thumbnail" style="width: 80px; height: auto; object-fit: cover;"/>
+        <img src="./papers/dragtext2025/thumb.png" alt="Thumbnail" style="width: 100px; height: auto; object-fit: cover;"/>
         <div style="line-height: 1.2; width: calc(100% - 95px);" align="left">
             <p style="margin: 2px 0; font-weight: bold; white-space: nowrap;">
                 DragText: Rethinking Text Embedding in Point-based Image Editing
@@ -41,7 +44,7 @@ date: 2024-09-22
         </div>
     </div>
     <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
-        <img src="./papers/petite2024/thumb.png" alt="Thumbnail" style="width: 80px; height: auto; object-fit: cover;"/>
+        <img src="./papers/petite2024/thumb.png" alt="Thumbnail" style="width: 100px; height: auto; object-fit: cover;"/>
         <div style="line-height: 1.2; width: calc(100% - 95px);" align="left">
             <p style="margin: 2px 0; font-weight: bold; white-space: nowrap;">
                 Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction

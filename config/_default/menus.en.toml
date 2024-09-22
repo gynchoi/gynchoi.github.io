@@ -13,17 +13,17 @@
 
 [[main]]
   name = "CV"
-  url = ""
+  url = "https://gynchoi.github.io/assets/pdf/CV.pdf"
   weight = 10
+
+[[main]]
+  name = "Bio"
+  pageRef = "bio"
+  weight = 20
 
 [[main]]
   name = "Publication"
   pageRef = "papers"
-  weight = 20
-
-[[main]]
-  name = "Activities"
-  pageRef = "activities"
   weight = 30
 
 [[main]]
@@ -46,7 +46,7 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10

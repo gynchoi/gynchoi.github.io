@@ -1,8 +1,7 @@
 ---
 title: "PETITE:Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction"
-date: 2024-09-23
+date: 2024-06-18
 description: "MICCAI Acceptance Paper"
-summary: "We introduce PETITE, Parameter-Efficient Fine-Tuning for MultI-scanner PET to PET REconstruction which represents the optimal PEFT combination when independently applying encoder-decoder components to each model architecture."
 tags: ["miccai", "conference-paper"]
 ---
 
@@ -10,11 +9,11 @@ tags: ["miccai", "conference-paper"]
 We introduce PETITE, <b>P</b>arameter-<b>E</b>fficient Fine-<b>T</b>uning for Mult<b>I</b>-scanner PE<b>T</b> to PET R<b>E</b>construction which represents the optimal PEFT combination when independently applying encoder-decoder components to each model architecture.
 {{< /lead >}}
 
-<p align="center">
-<a href="https://arxiv.org/abs/2407.07517"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-b31b1b.svg?style=flat-square&logo=arxiv"></a>
-<a href="https://github.com/MICV-yonsei/PETITE"><img alt='Code' src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"></a>
-<a href="https://micv-yonsei.github.io/petite2024/"><img alt='Project Page' src="https://img.shields.io/badge/Project page-orange?style=flat-square&logo="></a>
-</p>
+<div align="left" style="margin-top: -50px;">
+<a href="https://arxiv.org/abs/2407.07517" style="display: inline-block;"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-b31b1b.svg?style=flat-square&logo=arxiv"></a>
+<a href="https://github.com/MICV-yonsei/PETITE" style="display: inline-block;"><img alt='Code' src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"></a>
+<a href="https://micv-yonsei.github.io/petite2024/" style="display: inline-block;"><img alt='Project Page' src="https://img.shields.io/badge/Project page-orange?style=flat-square&logo="></a>
+</div>
 
 ## Abstract
 Reducing scan time in Positron Emission Tomography (PET) imaging while maintaining high-quality images is crucial for minimizing patient discomfort and radiation exposure. Due to the limited size of datasets and distribution discrepancy across scanners in medical imaging, fine-tuning in a parameter-efficient and effective manner is on the rise. 
@@ -36,3 +35,13 @@ The pipeline of the encoder-decoder structure of each ViT-based model. (a) 3D CV
 
 <img src="PEFT.png">
 We provide novel insights into the optimal PEFT settings tailored for the reconstruction model. Upon experimenting with possible Mix-PEFT, we found that using less than 1% of parameters can achieve performance comparable to Full-FT, carefully considering encoder and decoder architecture.
+
+### Citation
+```
+@article{kim2024parameter,
+  title={Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction},
+  author={Kim, Yumin and Choi, Gayoon and Hwang, Seong Jae},
+  journal={arXiv preprint arXiv:2407.07517},
+  year={2024}
+}
+```

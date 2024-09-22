@@ -9,14 +9,14 @@ title = "Gayoon Choi"
 [params]
   dateFormat = "2 January 2006"
 
-  mainSections = ["paper", "act"]
+  mainSections = ["papers", "projects"]
   # description = "My awesome website"
 
 [params.author]
   name = "Gayoon Choi"
   image = "img/author.jpg"
-  headline = "M.S. Student"
-  bio = "Hi! I am Gayoon Choi. I am M.S. Student in Yonsei University, advised by Seong Jae Hwang. And this is my dog, DDUNG :dog:"
+  headline = "M.S. Student in Yonsei University"
+  bio = "Hi! I'm Gayoon Choi and this is my dog, DDUNG:dog:. I am M.S. Student in MICV Lab at Yonsei University"
   links = [
     { email = "mailto:gynchoi17@yonsei.ac.kr" },
   #   { link = "https://link-to-some-website.com/" },
