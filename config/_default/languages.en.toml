@@ -9,7 +9,7 @@ title = "Gayoon Choi"
 [params]
   dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
+  mainSections = ["paper", "act"]
   # description = "My awesome website"
 
 [params.author]

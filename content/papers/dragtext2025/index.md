@@ -1,6 +1,7 @@
 ---
 title: "DragText: Rethinking Text Embedding in Point-based Image Editing"
 date: 2024-09-23
+draft: false
 description: "WACV 2025 Round 1 Early Acceptance Paper"
 summary: "We propose DragText, which optimizes text embedding in conjunction with the dragging process to pair with the modified image embedding."
 tags: ["wacv", "papers"]
@@ -12,7 +13,7 @@ We propose DragText, which optimizes text embedding in conjunction with the drag
 
 <p align="center">
 <a href="https://arxiv.org/abs/2407.17843"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-b31b1b.svg?style=flat-square&logo=arxiv"></a>
-<a href="https://github.com/gynchoi/DragText"><img alt='Code' src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"></a>
+<a href="https://github.com/MICV-yonsei/DragText"><img alt='Code' src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"></a>
 <a href="https://micv-yonsei.github.io/dragtext2025/"><img alt='Project Page' src="https://img.shields.io/badge/Project page-orange?style=flat-square&logo="></a>
 </p>
 

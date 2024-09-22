@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Blog :tada:"
+title: "Welcome to my Blog :dog:"
 date: 2024-09-22
 ---
 

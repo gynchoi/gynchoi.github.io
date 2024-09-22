@@ -15,26 +15,26 @@
   name = "CV"
   url = ""
   weight = 10
-  
-[[main]]
-  name = "Publication"
-  pageRef = "paper"
-  weight = 10
 
 [[main]]
-  name = "Activities"
-  pageRef = "act"
+  name = "Publication"
+  pageRef = "papers"
   weight = 20
 
 [[main]]
-  name = "Project"
-  pageRef = "project"
+  name = "Activities"
+  pageRef = "activities"
   weight = 30
+
+[[main]]
+  name = "Project"
+  pageRef = "projects"
+  weight = 40
 
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 40
+  weight = 50
 
 [[main]]
   identifier = "search"
