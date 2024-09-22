@@ -13,7 +13,7 @@
 
 [[main]]
   name = "CV"
-  url = "https://gynchoi.github.io/assets/CV.pdf"
+  url = "assets/CV.pdf"
   weight = 10
 
 [[main]]
