@@ -13,7 +13,7 @@ title: "Welcome to my Blog :tada:"
 ## Publications
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 30px;">
     <div style="display: flex; align-items: flex-start; gap: 15px; width: 100%;">
-        <img src="/assets/img/author.jpg" alt="Thumbnail" style="width: 70px; height: auto;"/>
+        <img src="/assets/img/default.jpg" alt="Thumbnail" style="width: 70px; height: auto;"/>
         <div style="line-height: 1.2; width: calc(100% - 85px);" align="left">
             <p style="margin: 2px 0; font-weight: bold; white-space: nowrap;">
                 DragText: Rethinking Text Embedding in Point-based Image Editing
@@ -41,7 +41,7 @@ title: "Welcome to my Blog :tada:"
         </div>
     </div>
     <div style="display: flex; align-items: flex-start; gap: 15px; width: 100%;">
-        <img src="/assets/img/author.jpg" alt="Thumbnail" style="width: 70px; height: auto;"/>
+        <img src="/assets/img/default.jpg" alt="Thumbnail" style="width: 70px; height: auto;"/>
         <div style="line-height: 1.2; width: calc(100% - 85px);" align="left">
             <p style="margin: 2px 0; font-weight: bold; white-space: nowrap;">
                 Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction
