@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my Blog :tada:"
-
+date: 2024-09-22
 ---
 
 ## News :tada:
@@ -12,9 +12,9 @@ title: "Welcome to my Blog :tada:"
 
 ## Publications
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 30px;">
-    <div style="display: flex; align-items: flex-start; gap: 15px; width: 100%;">
-        <img src="default.jpg" alt="Thumbnail" style="width: 70px; height: auto;"/>
-        <div style="line-height: 1.2; width: calc(100% - 85px);" align="left">
+    <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
+        <img src="./paper/dragtext2025/thumb.png" alt="Thumbnail" style="width: 80px; height: auto; object-fit: cover;"/>
+        <div style="line-height: 1.2; width: calc(100% - 95px);" align="left">
             <p style="margin: 2px 0; font-weight: bold; white-space: nowrap;">
                 DragText: Rethinking Text Embedding in Point-based Image Editing
             </p>
@@ -40,9 +40,9 @@ title: "Welcome to my Blog :tada:"
             </div>
         </div>
     </div>
-    <div style="display: flex; align-items: flex-start; gap: 15px; width: 100%;">
-        <img src="default.jpg" alt="Thumbnail" style="width: 70px; height: auto;"/>
-        <div style="line-height: 1.2; width: calc(100% - 85px);" align="left">
+    <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
+        <img src="./paper/petite2024/thumb.png" alt="Thumbnail" style="width: 80px; height: auto; object-fit: cover;"/>
+        <div style="line-height: 1.2; width: calc(100% - 95px);" align="left">
             <p style="margin: 2px 0; font-weight: bold; white-space: nowrap;">
                 Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction
             </p>
@@ -68,4 +68,5 @@ title: "Welcome to my Blog :tada:"
             </div>
         </div>
     </div>
+
 </div>
