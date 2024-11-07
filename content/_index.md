@@ -16,13 +16,13 @@ Hi! I'm Gayoon Choi and currently pursuing my M.S. degree at Yonsei University, 
 ## Publications
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 30px;">
     <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
-        <img src="./papers/dragtext2025/thumb.png" alt="Thumbnail" style="width: 100px; height: auto; object-fit: cover;"/>
+        <img src="./papers/dragtext2025/thumb.png" alt="Thumbnail" style="width: 150px; height: 90px; object-fit: cover;"/>
         <div style="line-height: 1.2; width: calc(100% - 95px);" align="left">
             <p style="margin: 2px 0; font-weight: bold;">
                 DragText: Rethinking Text Embedding in Point-based Image Editing
             </p>
             <p style="margin: 2px 0;">
-                <strong>Gayoon Choi</strong>, Taejin Jeong, Sujung Hong, Jaehoon Joo, Seong Jae Hwang
+                <strong>Gayoon Choi</strong>, Taejin Jeong, Sujung Hong, Seong Jae Hwang
             </p>
             <p style="margin: 2px 0;">
                 WACV 2025
@@ -44,7 +44,7 @@ Hi! I'm Gayoon Choi and currently pursuing my M.S. degree at Yonsei University, 
         </div>
     </div>
     <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
-        <img src="./papers/petite2024/thumb.png" alt="Thumbnail" style="width: 100px; height: auto; object-fit: cover;"/>
+        <img src="./papers/petite2024/thumb.png" alt="Thumbnail" style="width: 150px; height: 90px; object-fit: cover;"/>
         <div style="line-height: 1.2; width: calc(100% - 95px);" align="left">
             <p style="margin: 2px 0; font-weight: bold;">
                 Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction

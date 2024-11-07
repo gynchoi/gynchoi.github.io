@@ -38,10 +38,12 @@ We provide novel insights into the optimal PEFT settings tailored for the recons
 
 ### Citation
 ```
-@article{kim2024parameter,
+@inproceedings{petite,
   title={Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction},
   author={Kim, Yumin and Choi, Gayoon and Hwang, Seong Jae},
-  journal={arXiv preprint arXiv:2407.07517},
-  year={2024}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={518--528},
+  year={2024},
+  organization={Springer}
 }
 ```
