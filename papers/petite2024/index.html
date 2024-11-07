@@ -133,7 +133,7 @@
     "keywords": ["miccai","conference-paper"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "447"
+    "wordCount": "455"
   }
   </script>
     
@@ -515,11 +515,13 @@ The overview of PETITE: Scheme for single source-target settings in PET scan tim
 The pipeline of the encoder-decoder structure of each ViT-based model. (a) 3D CVT-GAN features a generator with a ViT-based encoder and decoder. Only the first three layers of the encoder and the first two layers of the decoder are trained. (b) UNETR consists of a ViT-based encoder and a CNN-based decoder. The optimal PEFT combination independently applying encoder-decoder components to each model architecture.
 <img src="PEFT.png">
 We provide novel insights into the optimal PEFT settings tailored for the reconstruction model. Upon experimenting with possible Mix-PEFT, we found that using less than 1% of parameters can achieve performance comparable to Full-FT, carefully considering encoder and decoder architecture.
-<h3 id="citation" class="relative group">Citation <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#citation" aria-label="Anchor">#</a></span></h3><pre tabindex="0"><code>@article{kim2024parameter,
+<h3 id="citation" class="relative group">Citation <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#citation" aria-label="Anchor">#</a></span></h3><pre tabindex="0"><code>@inproceedings{petite,
   title={Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction},
   author={Kim, Yumin and Choi, Gayoon and Hwang, Seong Jae},
-  journal={arXiv preprint arXiv:2407.07517},
-  year={2024}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={518--528},
+  year={2024},
+  organization={Springer}
 }
 </code></pre>
       </div>
