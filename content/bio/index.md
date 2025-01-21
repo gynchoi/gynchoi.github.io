@@ -13,16 +13,16 @@ About Gayoon Choi🙌
 
 <h2 style="color: #FE9A2E;">Education</h2>
 
-#### M.S. in Artificial Intelligence, Yonsei University (Sep 2023 - Aug 2025)
+#### M.S. in Artificial Intelligence @ Yonsei University (Sep. 2023 - Aug. 2025)
 Advisor: Prof. Seong Jae Hwang
 
-#### B.A. in Economics, Yonsei University (Mar 2018 - Aug 2023)
+#### B.A. in Economics @ Yonsei University (Mar. 2018 - Aug. 2023)
 Minor Degree: Computer Science and Engineering, Applied Statistics  
-GPA: 3.76 / 4.5
+GPA 3.76 / 4.5
 
 <h2 style="color: #FE9A2E;">Research Experience</h2>
 
-#### Medical Imaging & Computer Vision Lab, Yonsei University (Oct 2022 - Aug 2023)
+#### Medical Imaging & Computer Vision Lab @ Yonsei University (Oct. 2022 - Aug. 2023)
 Advisor: Prof. Seong Jae Hwang  
 Research Topic: <i>Short-time PET Reconstruction in Parameter Efficient Fine Tuning Aspect</i>
 

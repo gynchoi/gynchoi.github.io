@@ -2,7 +2,7 @@
 title: "PETITE: Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction"
 date: 2024-06-18
 description: "MICCAI Acceptance Paper"
-tags: ["miccai", "conference-paper"]
+tags: ["miccai", "poster", "conference-paper"]
 ---
 
 {{< lead >}}

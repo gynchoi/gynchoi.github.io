@@ -8,12 +8,16 @@ Hi! I'm Gayoon Choi and currently pursuing my M.S. degree at Yonsei University, 
 
 ## News :tada:
 <ul style="line-height: 1.2;" align="left">
+    <li>[Jan 2025] One Paper ACCEPTED as an <strong>ORAL</strong> for <a href="https://wacv2025.thecvf.com/" target="_blank">WACV 2025</a></li>
     <li>[Aug 2024] One Paper <strong>EARLY ACCEPTED</strong> for <a href="https://wacv2025.thecvf.com/" target="_blank">WACV 2025</a></li>
     <li>[May 2024] One Paper Accepted for <a href="https://conferences.miccai.org/2024/en/" target="_blank">MICCAI 2024</a></li>
     <li>[Sep 2023] Join <a href="https://micv.yonsei.ac.kr/" target="_blank">MICV Lab</a> in <a href="https://www.yonsei.ac.kr"  target="_blank">Yonsei Univeristy</a> for M.S. Degree</li>
 </ul>
 
-## Publications
+<h2 style="margin-bottom: 0;">Publications</h2>
+<p style="font-size: 0.8em; color: #6e6e6e; margin-top: 0;">
+    (* Equal Contribution)
+</p>
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 30px;">
     <div style="display: flex; align-items: center; gap: 15px; width: 100%;">
         <img src="./papers/dragtext2025/thumb.png" alt="Thumbnail" style="width: 150px; height: 90px; object-fit: cover;"/>
@@ -25,7 +29,7 @@ Hi! I'm Gayoon Choi and currently pursuing my M.S. degree at Yonsei University, 
                 <strong>Gayoon Choi</strong>, Taejin Jeong, Sujung Hong, Seong Jae Hwang
             </p>
             <p style="margin: 2px 0;">
-                WACV 2025
+                WACV 2025, Oral
             </p>
             <div style="display: flex; gap: 10px;">
                 <a href="" style="text-decoration: none;">

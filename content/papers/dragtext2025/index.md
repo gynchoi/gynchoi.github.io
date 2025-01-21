@@ -2,7 +2,7 @@
 title: "DragText: Rethinking Text Embedding in Point-based Image Editing"
 date: 2024-08-31
 description: "WACV 2025 Round 1 Early Acceptance Paper"
-tags: ["wacv", "conference-paper"]
+tags: ["wacv", "oral", "conference-paper"]
 ---
 {{< katex >}}
 {{< lead >}}
